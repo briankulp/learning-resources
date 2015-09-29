@@ -5,6 +5,7 @@ A collection of useful books and blog posts.
 - _Eloquent Javascript_, by Marijn Haverbeke: [Web](http://eloquentjavascript.net/), [PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf), [EPUB](http://eloquentjavascript.net/Eloquent_JavaScript.epub)
 - "Thinking in React", by Pete Hunt: [Web](http://facebook.github.io/react/docs/thinking-in-react.html)
 - "Javascript Best Practices", by Code School: [Web](https://www.codeschool.com/courses/javascript-best-practices)
+- "JavaScript: The Right Way", by William Oliveira: [Web](http://jstherightway.org/)
 
 ## CSS
 - _CSS Mastery_, by Simon Collison, Andy Budd, and Cameron Moll: [Web](http://www.amazon.com/gp/product/1430223979/ref=as_li_ss_tl?ie=UTF8&tag=css-tricks-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1430223979)
