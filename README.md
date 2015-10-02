@@ -7,6 +7,7 @@ A collection of useful books and blog posts.
 - "Javascript Best Practices", by Code School: [Web](https://www.codeschool.com/courses/javascript-best-practices)
 "Fixing Memory Leaks in Angular.js Applications", by dwmkerr: [Web](http://www.dwmkerr.com/fixing-memory-leaks-in-angularjs-applications/)
 - "JavaScript: The Right Way", by William Oliveira: [Web](http://jstherightway.org/)
+- You Don't Know JS, by Kyle Simpson: [EPUB](https://github.com/getify/You-Dont-Know-JS)
 
 ## CSS
 - _CSS Mastery_, by Simon Collison, Andy Budd, and Cameron Moll: [Web](http://www.amazon.com/gp/product/1430223979/ref=as_li_ss_tl?ie=UTF8&tag=css-tricks-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1430223979)
