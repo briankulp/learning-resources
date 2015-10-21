@@ -9,6 +9,7 @@ A collection of useful books and blog posts.
 - "JavaScript: The Right Way", by William Oliveira: [Web](http://jstherightway.org/)
 - You Don't Know JS, by Kyle Simpson: [EPUB](https://github.com/getify/You-Dont-Know-JS)
 - Features of ES2015 by Google Developers [WEB](https://developers.google.com/web/shows/ttt/series-2/es2015) 
+- "ES6 Interactive Guide": [Web](http://projects.formidablelabs.com/es6-interactive-guide/#/)
 
 ## CSS
 - _CSS Mastery_, by Simon Collison, Andy Budd, and Cameron Moll: [Web](http://www.amazon.com/gp/product/1430223979/ref=as_li_ss_tl?ie=UTF8&tag=css-tricks-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1430223979)
